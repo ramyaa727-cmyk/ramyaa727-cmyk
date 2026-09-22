@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Ramya A 👋
 
-<!--
-**ramyaa727-cmyk/ramyaa727-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+🌐 **Live Portfolio:** [https://ramyaa727-cmyk.github.io/ramya-portfolio/](https://ramyaa727-cmyk.github.io/ramya-portfolio/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Skills
+* **Languages:** C, Python, JavaScript, HTML, CSS, SQL
+* **Tools & Platforms:** Git, GitHub, VS Code, Vercel
+
+---
+
+## 🚀 Key Projects
+* **Developer Portfolio:** Interactive, responsive portfolio website built with clean code and smooth navigation.
+* **Viswanathan & Sons Movie Project:** Web project demonstrating dynamic UI design and functionality.
+
+---
+
+📬 **Connect with Me:**
+* **LinkedIn:** [Ramya A](https://www.linkedin.com)
+*
